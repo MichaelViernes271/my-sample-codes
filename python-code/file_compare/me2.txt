@@ -1,0 +1,4 @@
+This is a file sample for comparison."Anoteher anotation.\n" 
+Anoteher anotation.\n 
+\n"Anoteher anotation." 
+\n\nAnoteher anotation.\n 
