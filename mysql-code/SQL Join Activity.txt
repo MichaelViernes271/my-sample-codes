@@ -1,0 +1,63 @@
+Music genres:
+6000. Pop-punk (also known as punk-pop) is a rock music genre that combines the textures and fast tempos of punk rock with the melodies and chord progressions of power pop and pop music.
+
+6009. Popular music is any musical style accessible to the general public and disseminated by the mass media. 
+
+6008. Country music, also known as country and western (or simply country) and hillbilly music, is a genre of popular music that originated in the southern United States in the early 1920s.
+
+6007. Religious music (also sacred music) is music performed or composed for religious use or through religious influence. Gospel, spiritual, and Christian music are examples of religious music.
+
+6006. Soul music (often referred to simply as soul) is a popular music genre that originated in the African American community throughout the United States in the 1950s and early 1960s.
+
+
+
+
+
+
+
+Singer/Band: My Chemical Romance
+Album: The Black Parade Is Dead!
+Songs:
+Famous Last Words	0601
+Disenchanted	0602
+Welcome to the Black Parade	0603
+I Don't Love You	0604
+Helena	0401
+
+Singer/Bad: Adele
+Album:21
+Songs: Set fire to the rain 1101
+Rolling in the Deep	1001
+Someone like You	1102
+
+Album: none
+Skyfall	1201
+Hello	1501
+
+
+
+Inserted values in songGenre:
+
+(6000, 6000, 6000,"Pop-punk = combines the textures and fast tempos, melodies and chord progressions"),
+(6009, 6009, 6009, "Popular music = any musical style accessible to the general public"),
+(6008, 6008, 6008, "Country music = a popular music originated in the United States in the early 1920s"),
+(6007, 6007, 6007, "Religious music = music performed through religious influence"),
+(6006, 6006, 6006, "Soul music = a popular music originated in the African American community in 1950s & 1960s");
+ 
+Inserted values in playlist:
+
+(0601, "Famous Last Words", 6000, "My Chemical Romance", "The Black Parade Is Dead!"),
+(0602, "Disenchanted", 6000, "My Chemical Romance", "The Black Parade Is Dead!"),
+(0603, "Welcome to the Black Parade", 6000, "My Chemical Romance", "The Black Parade Is Dead!"),
+(0604, "I Don't Love You", 6000, "My Chemical Romance", "The Black Parade Is Dead!"),
+(0401, "Helena", 6000, "My Chemical Romance", "The Black Parade Is Dead!"),
+(1101, "Set fire to the rain", 6009, "Adele", "21"),
+(1001, "Rolling in the Deep", 6009, "Adele", "21"),
+(1102, "Someone like You", 6009, "Adele", "21"),
+(1201, "Skyfall", 6009, "Adele", "21"),
+(1501, "Hello", 6006, "Adele", "21");
+
+
+
+
+
